@@ -1,5 +1,5 @@
 # Christmas-Card
 
-<Login page>
+### Login page
 - ID, PW
-<X-mas Card>
+### X-mas Card
